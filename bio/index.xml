@@ -6,11 +6,7 @@
     <description>Recent content in Bios on /home/nkallergis/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2020 14:23:09 +0200</lastBuildDate>
-    
-	<atom:link href="https://nkallergis.github.io/bio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 06 Nov 2020 14:23:09 +0200</lastBuildDate><atom:link href="https://nkallergis.github.io/bio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/home/nkallergis/bio/about</title>
       <link>https://nkallergis.github.io/bio/about/</link>
@@ -18,7 +14,7 @@
       
       <guid>https://nkallergis.github.io/bio/about/</guid>
       <description>Nikos Kallergis  Unified Skillset primarily focused on networking
-Worked as  Network Field Engineer Network Presales Engineer Network Design Engineer Network Automation Engineer  Experienced in  Routing Switching Security Wireless IP Telephony Automation/orchestration Microsoft Azure  Interested in  Automation/Orchestration Network Virtualization NetOps  Tools of choice  VSCode Wireshark Whiteboard Ansible Python Nornir NetBox NAPALM  Contact details LinkedIn * Mail * Phone</description>
+Worked as  Network Automation Engineer Network Field Engineer Network Presales Engineer Network Design Engineer  Experienced in  Routing Switching Security Wireless IP Telephony  Currently working on  Automation/Orchestration Telemetry &amp;amp; Observability Cloud &amp;amp; Network Virtualization NetDevOps  Tools of choice  VSCode Wireshark Whiteboard Ansible Python Nornir Nautobot NAPALM  Contact details LinkedIn * Mail * Phone</description>
     </item>
     
     <item>
@@ -38,8 +34,10 @@ Certifications  AZ-300 Microsoft Azure Architect Technologies CCSA Check Point C
       <pubDate>Fri, 06 Nov 2020 13:53:54 +0200</pubDate>
       
       <guid>https://nkallergis.github.io/bio/experience/</guid>
-      <description>Professional services architect at UniSystems November 2019 - present
-As a result of the below and in conjunction with the experience I&amp;rsquo;ve gathered from all my previous positions, my title was changed to &amp;ldquo;Architect&amp;rdquo;. Along with it, my main focus has also shifted mostly towards automation/orchestration and cloud projects for large entities (EU institutions, banks, public sector). In short, I&amp;rsquo;m spending more time in front of VSCode and Azure portal instead of SecureCRT and WireShark.</description>
+      <description>Senior Consultant at Network to Code November 2021 - present
+For the past couple of years, I’ve been working as a Network Automation Engineer, helping customers transform their teams and network operations. A blend of networking, automation/orchestration, telemetry, and Python/Django development.
+ Professional services architect at UniSystems November 2019 - November 2021
+As a result of the below and in conjunction with the experience I&amp;rsquo;ve gathered from all my previous positions, my title was changed to &amp;ldquo;Architect&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -48,10 +46,10 @@ As a result of the below and in conjunction with the experience I&amp;rsquo;ve g
       <pubDate>Fri, 06 Nov 2020 13:53:54 +0200</pubDate>
       
       <guid>https://nkallergis.github.io/bio/projects/</guid>
-      <description>SYZEFXIS II - ICT October 2020 - present
-Technical lead expert for Network &amp;amp; Security Automation Team. Zero-touch provisioning, configuration and change management of WAN, LAN &amp;amp; Security equipment.
- Alpha Bank Azure Stack Hub integration project October 2019 - November 2020
-Integration of Azure Stack Hub into the bank&amp;rsquo;s traditional data centre. Used Check Point S2S VPN to Cisco ASA. Custom failover/resiliency mechanism using Ansible and Python.</description>
+      <description>MacStadium Telemetry June 2023 - September 2023
+Migrate from a commercial monitoring solution to an open-source telemetry and alerting stack (Nautobot, Telegraf, Prometheus, Grafana, AlertManager).
+ Bank Central Asia Network Automation January 2023 - May 2023
+Joined the Network Automation team of BCA and helped design their automation strategy. As part of that, managed to push Nautobot to production, deliver a catalog of services to business stakeholders, and set the basis for automated data center deployment.</description>
     </item>
     
   </channel>
